@@ -20,7 +20,7 @@ public class demo {
 		
 		System.out.println(a*b);
 		
-		System.out.println("Thank you");
+		System.out.println("bye bye");
 		
 	}
 
